@@ -1,5 +1,6 @@
 Xenthera Vanta X6 Module Testing Going On ⚡
 What's New ⚙️
+• Battery check script fixed ✅
 • News update notification ✅
 • RAM Management Improved ✅
 • Bypass/Idle Charging ✅
