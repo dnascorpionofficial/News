@@ -4,8 +4,7 @@ What's New ⚙️
 • RAM Management Improved ✅
 • Bypass/Idle Charging ✅
 • BGMI New performance tweaks ✅
-
-
+• Reconfigured every GPU Modes ✅
 
 
 ⚡ Airtel Users Great News ⚡
