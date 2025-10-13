@@ -8,3 +8,5 @@ What's New ⚙️
 • Reconfigured every GPU Modes ✅
 
 October 13 : X6 will be released after 2 more days of testing (Approx: October 15)
+
+October 14 : Popup notification app installation error in some ROM fixed ✅
