@@ -1,12 +1,18 @@
 Xenthera Vanta X6 Module Testing Going On ⚡
-What's New ⚙️
+
+What's New ⭕ & Fixed ✅
+
+October 04
 • Battery check script fixed ✅
-• News update notification ✅
+• Added News update notification ⭕
 • RAM Management Improved ✅
-• Bypass/Idle Charging ✅
-• BGMI New performance tweaks ✅
-• Reconfigured every GPU Modes ✅
 
-October 13 : X6 will be released after 2 more days of testing (Approx: October 15)
+October 05
+• Bypass/Idle Charging ⭕
+• BGMI New performance tweaks ⭕
 
-October 14 : Popup notification app installation error in some ROM fixed ✅
+October 06
+• Reconfigured every GPU Modes ⭕
+
+October 14
+• Popup notification app installation error in some ROM fixed ✅
