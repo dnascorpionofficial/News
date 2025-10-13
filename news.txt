@@ -8,8 +8,8 @@ What's New ⭕ & Fixed ✅
 • RAM Management Improved ✅
 
 ⚙️ October 05
-• Bypass/Idle Charging ⭕
-• BGMI New performance tweaks ⭕
+• Added Bypass/Idle Charging -- Need to fix more ⭕
+• Added BGMI New performance tweaks ⭕
 
 ⚙️ October 06
 • Reconfigured every GPU Modes ⭕
