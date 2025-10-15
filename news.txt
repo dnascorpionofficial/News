@@ -1,6 +1,6 @@
-__Xenthera Vanta X6 Stable Released__ 🎉
+Xenthera Vanta X6 Stable Released 🎉
 
-💢 ***October 14 - 2025*** 💢
+💢 October 14 - 2025 💢
 Changelogs ⚙️ Version Code 86
 
 • Fixed Starter & Main scripts executing together ✅
@@ -14,7 +14,7 @@ Changelogs ⚙️ Version Code 86
 • Reconfigured every CPU Modes ✅
 • Added Bypass/Idle Charging -- Need to fix more ⭕
 
-💢 ***October 15 - 2025*** 💢
+💢 October 15 - 2025 💢
 Changelogs ⚙️ Version Code 87
 
 • Internet not connected popup shows once only to reduce unnecessary notification ✅
