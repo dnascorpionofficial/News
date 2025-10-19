@@ -1,6 +1,9 @@
 Xenthera Vanta X6 Stable Released 🎉
 
 🔰 October 19 - 2025
+⭕ Version Code : 92
+• Changed the new thermals to old thermals ✅
+--
 ⭕ Version Code : 91
 • Changed Module Expiry Date Animation to Left to centre : Right to centre ✅
 ==================================
@@ -23,6 +26,7 @@ Xenthera Vanta X6 Stable Released 🎉
 🔰 October 16 - 2025
 ⭕ Version Code : 88
 • Changed style of sleep delay changer ✅
+• Added new thermals ✅
 ==================================
 
 🔰 October 15 - 2025
