@@ -1,5 +1,5 @@
-Welcome to the **latest news**!
+Welcome to the latest news!
 [color:#FF0000]This is red text![/color]
 Here's an image: https://example.com/image.jpg
-Check this [url]https://x.com[/url] for updates or visit https://news.google.com directly.
-[color:#00FF00]Green text[/color] with a link [url]https://example.org[/url].
+Check this https://x.com for updates or visit https://news.google.com directly.
+[color:#00FF00]Green text[/color] with a link https://example.org.
