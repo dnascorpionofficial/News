@@ -1,8 +1,9 @@
 Xenthera Vanta X6 Stable Released 🎉
 
 🔰 October 20 - 2025
-⭕ Version Code : 92
+⭕ Version Code : 93
 • Added set custom welcome name in Webui ✅
+==================================
 
 🔰 October 19 - 2025
 ⭕ Version Code : 92
