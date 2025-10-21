@@ -3,8 +3,8 @@ Xenthera Vanta X6 Stable Released 🎉
 🔰 October 21 - 2025
 ⭕ Version Code : 95
 • Improved performance ✅
-• Updated values for better battery backup in normal & sleeping modes
-• Bypass charging will show visual effect on charging
+• Updated values for better battery backup in normal & sleeping modes ✅
+• Bypass charging will show visual effect on charging ✅
 ==================================
 
 🔰 October 20 - 2025
