@@ -1,5 +1,18 @@
 Xenthera Vanta X6 Stable Released 🎉
 
+🔰 October 23 - 2025
+⭕ Version Code : 97
+• Added font changing support in WebUI ✅
+• Removed bypass charging visual effect ✅
+• Tweaked battery backup in normal use ✅
+• Removed fetching device info on every modes ✅
+°°°°°°°°°°°°°°°°°°°°°°°°
+BGMI : 3 Users Average
+Ranked Arena : 113 - 120FPS
+Ranked Erangel : 110 - 120FPS
+Ranked Livik : 103 - 120FPS
+TDM Room : 115 - 120FPS
+°°°°°°°°°°°°°°°°°°°°°°°°
 🔰 October 22 - 2025
 ⭕ Version Code : 96
 • Changed counter log file type ✅
