@@ -7,7 +7,7 @@ Xenthera Vanta X6 Released 🎉
 • Tweaked battery backup in normal use ✅
 • Removed fetching device info on every modes ✅
 °°°°°°°°°°°°°°°°°°°°°°°°
-BGMI : 3 Users Average
+BGMI : 3 Users Average with different modes in GPU & CPU
 Ranked Arena : 113 - 120FPS
 Ranked Erangel : 110 - 120FPS
 Ranked Livik : 103 - 120FPS
