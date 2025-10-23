@@ -12,19 +12,20 @@ Xenthera Vanta X6 Released 🎉
 • Removed bypass charging visual effect ✅
 • Tweaked battery backup in normal use ✅
 • Removed fetching device info on every modes ✅
-°°°°°°°°°°°°°°°°°°°°°°°°
-BGMI : 3 Users Average with different modes in GPU & CPU
+BGMI -- 3 Users Average with different modes in GPU & CPU
 Ranked Arena : 113 - 120FPS
 Ranked Erangel : 110 - 120FPS
 Ranked Livik : 103 - 120FPS
 TDM Room : 115 - 120FPS
-°°°°°°°°°°°°°°°°°°°°°°°°
+==================================
+
 🔰 October 22 - 2025
 ⭕ Version Code : 96
 • Changed counter log file type ✅
 • changed mode switching logic ✅
 • Changed fonts & colours in WebUI ✅
 • Added advanced RAM Cleaning tweaks ✅
+==================================
 
 🔰 October 21 - 2025
 ⭕ Version Code : 95
