@@ -1,6 +1,9 @@
 Xenthera Vanta X6 Released 🎉
 
 🔰 October 23 - 2025
+⭕ Version Code : 99
+• Fixed font names in webUI ✅
+--
 ⭕ Version Code : 98
 • Fixed slow installing apps & heating while installing apps
 --
