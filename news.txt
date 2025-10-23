@@ -1,5 +1,10 @@
 Xenthera Vanta X6 Changelogs
 
+🔰 October 24 - 2025
+⭕ Version Code : 100
+• Fixed the button size of sleep delay,lock applist, performance applist while changing the font ✅
+• Added a small notification description when you toggle on the Soft Reboot UI ✅
+
 🔰 October 23 - 2025
 ⭕ Version Code : 99
 • Fixed font names in webUI ✅
