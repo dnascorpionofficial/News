@@ -1,1 +1,19 @@
 
+toast.style.cssText = `
+  position: fixed;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #01030a;
+  color: #00ffe9;
+  padding: 14px 32px;
+  border-radius: 16px;
+  box-shadow: inset 0 0 12px #00ffe950, 0 0 25px #00ffe920;
+  border: 1px solid #00ffe940;
+  font-family: 'ScorpionFont', sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  transition: all 0.5s ease;
+  z-index: 9999;
+`;
