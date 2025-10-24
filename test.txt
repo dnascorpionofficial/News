@@ -1,19 +1,51 @@
-hrhr
-toast.style.cssText = `
-  position: fixed;
-  bottom: 25px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #01030a;
-  color: #00ffe9;
-  padding: 14px 32px;
-  border-radius: 16px;
-  box-shadow: inset 0 0 12px #00ffe950, 0 0 25px #00ffe920;
-  border: 1px solid #00ffe940;
-  font-family: 'ScorpionFont', sans-serif;
-  font-size: 15px;
-  letter-spacing: 0.5px;
-  opacity: 0;
-  transition: all 0.5s ease;
-  z-index: 9999;
-`;
+function showNewsToast(message) {
+  let toast = document.getElementById("news-toast");
+  if (!toast) {
+    toast = document.createElement("div");
+    toast.id = "news-toast";
+    toast.style.cssText = `
+      position: fixed;
+      bottom: 25px;
+      left: 50%;
+      transform: translateX(-50%) scale(0.95);
+      background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(10px);
+      color: #00ffe9;
+      padding: 14px 32px;
+      border-radius: 16px;
+      border-left: 3px solid #00ffe9;
+      border-right: 3px solid #00ffe9;
+      font-family: 'ScorpionFont', sans-serif;
+      font-size: 15px;
+      letter-spacing: 0.6px;
+      text-shadow: 0 0 6px #00ffe9;
+      box-shadow: inset 0 0 12px #00ffe950, 0 0 25px #00ffe940;
+      opacity: 0;
+      transition: opacity 0.6s ease, bottom 0.6s ease, transform 0.4s ease;
+      animation: scorpionPulse 2s infinite alternate;
+      z-index: 9999;
+    `;
+    document.body.appendChild(toast);
+
+    // Add pulse animation style dynamically
+    const style = document.createElement("style");
+    style.textContent = `
+      @keyframes scorpionPulse {
+        from { box-shadow: inset 0 0 10px #00ffe940, 0 0 20px #00ffe920; }
+        to { box-shadow: inset 0 0 14px #00ffe970, 0 0 30px #00ffe940; }
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
+  toast.textContent = message;
+  toast.style.opacity = "1";
+  toast.style.bottom = "40px";
+  toast.style.transform = "translateX(-50%) scale(1)";
+  
+  setTimeout(() => {
+    toast.style.opacity = "0";
+    toast.style.bottom = "20px";
+    toast.style.transform = "translateX(-50%) scale(0.95)";
+  }, 4000);
+}
