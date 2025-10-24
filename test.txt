@@ -1,4 +1,4 @@
-function showNewsToast(message) {
+h4hbfunction showNewsToast(message) {
   let toast = document.getElementById("news-toast");
   if (!toast) {
     toast = document.createElement("div");
