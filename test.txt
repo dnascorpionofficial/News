@@ -1,4 +1,18 @@
-hrh4hh4
-4j4j4j4j
-Bebjejeje
-rhejjej
+toast.style.cssText = `
+  position: fixed;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%) scale(0.8);
+  background: radial-gradient(circle, #00ffe1 0%, #000 70%);
+  color: #fff;
+  padding: 14px 32px;
+  border-radius: 50px;
+  text-align: center;
+  font-family: 'ScorpionFont', sans-serif;
+  font-size: 15px;
+  text-shadow: 0 0 8px #00ffe1;
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
+  opacity: 0;
+  transition: all 0.4s ease;
+  z-index: 9999;
+`;
