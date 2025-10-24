@@ -1,18 +1,1 @@
-bla.toast.style.cssText = `
-  position: fixed;
-  bottom: 25px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(12px);
-  color: #ffffff;
-  padding: 14px 26px;
-  border-radius: 14px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  font-family: 'ScorpionFont', sans-serif;
-  font-size: 15px;
-  box-shadow: 0 0 25px rgba(255, 255, 255, 0.3);
-  opacity: 0;
-  transition: all 0.5s ease;
-  z-index: 9999;
-`;
+
