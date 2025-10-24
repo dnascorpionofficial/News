@@ -1,4 +1,4 @@
-toast.style.cssText = `
+bla.toast.style.cssText = `
   position: fixed;
   bottom: 25px;
   left: 50%;
