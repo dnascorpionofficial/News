@@ -1,5 +1,5 @@
 Xenthera Vanta X6 Complete Changelogs
-~~~~~
+Testing...
 🔰 October 24 - 2025
 ⭕ Version Code : 101
 • Changed popup style if you enabled Soft Reboot UI ✅
