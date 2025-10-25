@@ -2,22 +2,22 @@ XENTHERA VANTA X6 CHANGELOGS
 
 October 24 - 2025
 Version Code : 102
-• Added a description in performance settings webui for multi dhejje djehjeje ehehheueue ehehjeuee ehhejehe
-• Post boot delay reduced ✔️☑️✅
-• Bind mounting logic changed ✅
-• Combined extra options into single colour & code ✅
-• Fixed font not applying properly in some sections ✅
+• ebbehebebebbe
+• dhheheje ✔️
+• dhhejejeje ✔️
+• ennejebebr ✔️
+• eneieiei33bb ✔️
 ---
 Version Code : 101
-• Changed popup style if you enabled Soft Reboot UI ✅
-• Removed some unnecessary logs & warning from WebUI JavaScript ✅
-• Improved settings info descriptions ✅
-• Changed news update popup style ✅
+• ebebebeb eb rbrb ✔️
+• behrhrjrj ✔️
+• r ebheje ejejejej ✔️
+• ehhejehehe ✔️
 ---
 Version Code : 100
-• Fixed the button size of sleep delay,lock applist, performance applist while changing the font ✅
-• Added a small notification description when you toggle on the Soft Reboot UI ✅
+• d ebehhehejeje ebb ✔️
+• rjjejejejj3e ✔️
 |
 October 23 - 2025
 Version Code : 99
-• Fixed font names in webUI ✅
+• dhejjejei3j 4h3h3h ✔️
