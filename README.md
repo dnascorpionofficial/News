@@ -1,7 +1,37 @@
-<span style="color: #FF0000"><i class="fa-solid fa-clock fa-spin"></i>Welcome Here<i class="fa-solid fa-clock fa-spin"></i></span>
-<br>
-Here's an image: <img src="https://example.com/image.jpg" alt="News Image" style="max-width: 100%; height: auto;">
-<br>
-Check this <a href="https://x.com" target="_blank">https://x.com</a> for updates.
-<br>
-<span style="color: #00FF00">Green text</span> with a link <a href="https://example.org" target="_blank">https://example.org</a>.
+function toggleInfo(itemId) {
+  const header = document.querySelector(`[onclick="toggleInfo('${itemId}')"]`);
+  if (!header) return;
+
+  const item = header.closest('.info-item');
+  if (!item) return;
+
+  const isActive = item.classList.contains('active');
+  const arrow = document.getElementById(`${itemId}-arrow`);
+  const contentBox = document.getElementById(`${itemId}-box`);
+  const content = document.getElementById(itemId);
+
+  document.querySelectorAll('.info-item').forEach(i => {
+    i.classList.remove('active');
+    const innerArrow = i.querySelector('.info-arrow');
+    if (innerArrow) innerArrow.style.transform = 'rotate(0deg)';
+    const relatedBox = i.nextElementSibling;
+    if (relatedBox && relatedBox.classList.contains('info-box')) {
+      relatedBox.style.display = 'none';
+    }
+  });
+
+  if (!isActive) {
+    item.classList.add('active');
+    if (arrow) arrow.style.transform = 'rotate(90deg)';
+
+    if (contentBox) {
+      contentBox.style.display = 'block';
+      if (content) {
+        content.style.display = 'block';
+      }
+      if (itemId === 'news-info' && content) {
+        fetchNews();
+      }
+    }
+  }
+}
