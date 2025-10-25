@@ -1,5 +1,13 @@
 XENTHERA VANTA X6 CHANGELOGS
 
+October 25 - 2025
+Version Code : 103
+• Fixed the tab bar allignment in WebUI ✔️
+• Changed all logs in centre allignement in WebUI ✔️
+• Fixed about info & news allignment with gradients ✔️
+• Added few configs for genshin impact game (untested) ➖
+• Fixed module expiry date animation lagging ✔️
+---
 October 24 - 2025
 Version Code : 102
 • Added a description in performance settings webui ✔️
