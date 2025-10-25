@@ -54,10 +54,10 @@ October 20 - 2025
 Version Code : 94
 • Reforged every CPU & GPU modes ✓
 • Optimized all script + removed few lines from all log files ✓
-• Added & Changed few animations in webui ✓
+• Added & changed few animations in webui ✓
 |
 Version Code : 93
-• Added set custom welcome name in Webui ✓
+• Added set custom welcome name in WebUI ✓
 ---
 October 19 - 2025
 Version Code : 92
@@ -69,14 +69,14 @@ Version Code : 91
 October 18 - 2025
 Version Code : 90
 • Tons of module description removed ✓
-• Added Module expiry date in webui ✓
+• Added module expiry date in webui ✓
 • Removed telegram profile redirect on reboot ✓
 • Reduced module flashing time ✓
 • Removed unnecessary modifications ✓
 ---
 October 17 - 2025
 Version Code : 89
-• Fixed issue of Sleep delay changer less than 20 second ✓
+• Fixed issue of sleep delay changer less than 20 second ✓
 • Removed some unnecessary operations from webui ✓
 ---
 October 16 - 2025
@@ -96,7 +96,7 @@ Version Code : 86
 • Popup notification app installation error in some ROM fixed ✓
 • RAM Management Improved ✓
 • Added sleep delay button for changing custom value in activating sleeping mode after screen off ✓
-• Added News update notification ✓
+• Added news update notification ✓
 • Added BGMI New performance tweaks ✓
 • Reconfigured every GPU Modes ✓
 • Reconfigured every CPU Modes ✓
