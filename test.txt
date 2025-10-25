@@ -2,7 +2,7 @@ XENTHERA VANTA X6 CHANGELOGS
 
 October 24 - 2025
 Version Code : 102
-• Added a description in performance settings webui ✅
+• Added a description in performance settings webui for multi dhejje djehjeje ehehheueue ehehjeuee ehhejehe
 • Post boot delay reduced ✅
 • Bind mounting logic changed ✅
 • Combined extra options into single colour & code ✅
