@@ -11,102 +11,94 @@ Version Code : 102
 Version Code : 101
 • Changed popup style if you enabled Soft Reboot UI ✔️
 • Removed some unnecessary logs & warning from WebUI JavaScript ☑️
-• Improved Settings info descriptions ✔️
+• Improved settings info descriptions ✔️
 • Changed news update popup style ✔️
 |
 Version Code : 100
 • Fixed the button size of sleep delay,lock applist, performance applist while changing the font ✓
 • Added a small notification description when you toggle on the Soft Reboot UI ✓
-
+---
 October 23 - 2025
 Version Code : 99
 • Fixed font names in webUI ✓
 |
-⭕ Version Code : 98
+Version Code : 98
 • Fixed slow installing apps & heating while installing apps
---
-⭕ Version Code : 97
-• Added font changing support in WebUI ✅
-• Removed bypass charging visual effect ✅
-• Tweaked battery backup in normal use ✅
-• Removed fetching device info on every modes ✅
+|
+Version Code : 97
+• Added font changing support in WebUI ✔️
+• Removed bypass charging visual effect ✔️
+• Tweaked battery backup in normal use ✔️
+• Removed fetching device info on every modes ✔️
+---
 BGMI -- 3 Users Average with different modes in GPU & CPU
 Ranked Arena : 113 - 120FPS
 Ranked Erangel : 110 - 120FPS
 Ranked Livik : 103 - 120FPS
 TDM Room : 115 - 120FPS
-==================================
-
-🔰 October 22 - 2025
-⭕ Version Code : 96
-• Changed counter log file type ✅
-• changed mode switching logic ✅
-• Changed fonts & colours in WebUI ✅
-• Added advanced RAM Cleaning tweaks ✅
-==================================
-
-🔰 October 21 - 2025
-⭕ Version Code : 95
-• Improved performance ✅
-• Updated values for better battery backup in normal & sleeping modes ✅
-• Bypass charging will show visual effect on charging ✅
-==================================
-
-🔰 October 20 - 2025
-⭕ Version Code : 94
-• Reforged every CPU & GPU modes ✅
-• Optimized all script + removed few lines from all log files ✅
-• Added & Changed few animations in webui ✅
---
-⭕ Version Code : 93
-• Added set custom welcome name in Webui ✅
-==================================
-
-🔰 October 19 - 2025
-⭕ Version Code : 92
-• Changed the new thermals to old thermals ✅
---
-⭕ Version Code : 91
-• Changed Module Expiry Date Animation to Left to centre : Right to centre ✅
-==================================
-
-🔰 October 18 - 2025
-⭕ Version Code : 90
-• Tons of module description removed ✅
-• Added Module expiry date in webui ✅
-• Removed telegram profile redirect on reboot ✅
-• Reduced module flashing time ✅
-• Removed unnecessary modifications ✅
-==================================
-
-🔰 October 17 - 2025
-⭕ Version Code : 89
-• Fixed issue of Sleep delay changer less than 20 second ✅
-• Removed some unnecessary operations from webui ✅
-==================================
-
-🔰 October 16 - 2025
-⭕ Version Code : 88
-• Changed style of sleep delay changer ✅
-• Added new thermals ✅
-==================================
-
-🔰 October 15 - 2025
-⭕ Version Code : 87
-• Internet not connected popup shows once only to reduce unnecessary notification ✅
-• Fixed webui ✅
-==================================
-
-🔰 October 14 - 2025
-⭕ Version Code : 86
-• Fixed Starter & Main scripts executing together ✅
-• Battery check script fixed ✅
-• Popup notification app installation error in some ROM fixed ✅
-• RAM Management Improved ✅
-• Added sleep delay button for changing custom value in activating sleeping mode after screen off ✅
-• Added News update notification ✅
-• Added BGMI New performance tweaks ✅
-• Reconfigured every GPU Modes ✅
-• Reconfigured every CPU Modes ✅
+---
+October 22 - 2025
+Version Code : 96
+• Changed counter log file type ✔️
+• changed mode switching logic ✔️
+• Changed fonts & colours in WebUI ✔️
+• Added advanced RAM Cleaning tweaks ✔️
+---
+October 21 - 2025
+Version Code : 95
+• Improved performance ✔️
+• Updated values for better battery backup in normal & sleeping modes ✔️
+• Bypass charging will show visual effect on charging ✔️
+---
+October 20 - 2025
+Version Code : 94
+• Reforged every CPU & GPU modes ✓
+• Optimized all script + removed few lines from all log files ✓
+• Added & Changed few animations in webui ✓
+|
+Version Code : 93
+• Added set custom welcome name in Webui ✓
+---
+October 19 - 2025
+Version Code : 92
+• Changed the new thermals to old thermals ✓
+|
+Version Code : 91
+• Changed Module Expiry Date Animation to Left to centre : Right to centre ✓
+---
+October 18 - 2025
+Version Code : 90
+• Tons of module description removed ✓
+• Added Module expiry date in webui ✓
+• Removed telegram profile redirect on reboot ✓
+• Reduced module flashing time ✓
+• Removed unnecessary modifications ✓
+---
+October 17 - 2025
+Version Code : 89
+• Fixed issue of Sleep delay changer less than 20 second ✓
+• Removed some unnecessary operations from webui ✓
+---
+October 16 - 2025
+Version Code : 88
+• Changed style of sleep delay changer ✓
+• Added new thermals ✓
+---
+October 15 - 2025
+Version Code : 87
+• Internet not connected popup shows once only to reduce unnecessary notification ✓
+• Fixed webui ✓
+---
+October 14 - 2025
+Version Code : 86
+• Fixed Starter & Main scripts executing together ✓
+• Battery check script fixed ✓
+• Popup notification app installation error in some ROM fixed ✓
+• RAM Management Improved ✓
+• Added sleep delay button for changing custom value in activating sleeping mode after screen off ✓
+• Added News update notification ✓
+• Added BGMI New performance tweaks ✓
+• Reconfigured every GPU Modes ✓
+• Reconfigured every CPU Modes ✓
 • Added Bypass/Idle Charging -- Need to fix more ➖
-==================================
+|
