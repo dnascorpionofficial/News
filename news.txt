@@ -2,6 +2,7 @@ XENTHERA VANTA X6 CHANGELOGS
 
 October 25 - 2025
 Version Code : 103
+• Removed scholar varsity font & added 2 more fonts ✔️
 • Fixed the tab bar allignment in WebUI ✔️
 • Changed all logs in centre allignement in WebUI ✔️
 • Fixed about info & news allignment with gradients ✔️
