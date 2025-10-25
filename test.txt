@@ -1,7 +1,8 @@
 IMPORTANT ANNOUNCEMENT!
 This is a regular introductory line to set the context.
 HeLLo is a subheading with two capital letters.
-October - 25 is a significant date to remember.
+October - 25 
+is a significant date to remember.
 • This is the first description providing some details about the update.
 • Here’s another description with more information for users.
 --
