@@ -11,7 +11,7 @@ Version Code : 102
 Version Code : 101
 • Changed popup style if you enabled Soft Reboot UI ✅
 • Removed some unnecessary logs & warning from WebUI JavaScript ✅
-• Improved Settings info descriptions ✅
+• Improved settings info descriptions ✅
 • Changed news update popup style ✅
 ---
 Version Code : 100
