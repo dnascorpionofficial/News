@@ -1,5 +1,13 @@
 XENTHERA VANTA X6 CHANGELOGS
 
+October 26 - 2025
+Version Code : 104
+• Fixed the new fonts apply ✔️
+• Reconfigured the INFERNO GPU Selection in performance mode 402Mhz-852Mhz with 3000 polling interval ✔️
+• Changed normal mode GPU polling interval from 9700 to 9800 ✔️
+• Changed the style of all logs section ✔️
+• Added a fallback check for device name in the mode change scripts ✔️
+---
 October 25 - 2025
 Version Code : 103
 • Removed scholar varsity font & added 2 more fonts ✔️
