@@ -9,6 +9,7 @@ Maybe heat up little bit on normal use for sometime - only first time
 • Fixed index in WebUI ✔️
 • Added uninstall script ✔️
 ---
+October 26 - 2025
 Version Code : 105
 • Fixed the battery log script ✔️
 • Advanced RAM cleaning logic implemented ✔️
