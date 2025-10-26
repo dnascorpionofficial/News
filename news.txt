@@ -1,10 +1,15 @@
 XENTHERA VANTA X6 CHANGELOGS
 
-October 26 - 2025
-Version Code : 105
-Probably the final release of Xenthera Vanta x6
+Final build of Xenthera Vanta x6 ✅
+20 builds of x6 - Thanks to testers ❤️
+October 27 - 2025
+Version Code : 106
 First boot will be delayed
 Maybe heat up little bit on normal use for sometime - only first time
+• Fixed index in WebUI ✔️
+• Added uninstall script ✔️
+---
+Version Code : 105
 • Fixed the battery log script ✔️
 • Advanced RAM cleaning logic implemented ✔️
 • CPU modes tweaked in normal mode ✔️
