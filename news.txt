@@ -1,6 +1,17 @@
 XENTHERA VANTA X6 CHANGELOGS
 
 October 26 - 2025
+Version Code : 105
+Probably the final release of Xenthera Vanta x6
+First boot will be delayed
+Maybe heat up little bit on normal use for sometime - only first time
+• Fixed the battery log script ✔️
+• Advanced RAM cleaning logic implemented ✔️
+• CPU modes tweaked in normal mode ✔️
+• Added cleaning cache before boot runs ✔️
+• Changed few allignment in the injector log & battery log ✔️
+• Added all type of WebUI support
+|
 Version Code : 104
 • Fixed the new fonts apply ✔️
 • Reconfigured the INFERNO GPU Selection in performance mode 402Mhz-852Mhz with 3000 polling interval ✔️
