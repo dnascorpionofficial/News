@@ -7,6 +7,7 @@ Version Code : 104
 • Changed normal mode GPU polling interval from 9700 to 9800 ✔️
 • Changed the style of all logs section ✔️
 • Added a fallback check for device name in the mode change scripts ✔️
+• Changed AI Injector details fetching in Injector Log section ✔️
 ---
 October 25 - 2025
 Version Code : 103
