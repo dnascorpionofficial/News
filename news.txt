@@ -9,6 +9,7 @@ Maybe heat up little bit on normal use for sometime - only first time
 • Reduced the intro loading size ✔️
 • Removed some unnecessary classes from webui index ✔️
 • Modified the color scheme to reduce similar shades appearing on nearby dates in logs ✔️
+• Added a fallback mechanism in fetching colour by date — if date fetching fails, it uses my birthday as the date ✔️
 ---
 October 27 - 2025
 Version Code : 106
