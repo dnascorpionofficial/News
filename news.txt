@@ -6,7 +6,12 @@ October 27 - 2025
 Version Code : 106
 First boot will be delayed
 Maybe heat up little bit on normal use for sometime - only first time
+• About info updated ✔️
 • Fixed index in WebUI ✔️
+• Added a description with blur & counter on 3 toggles ✔️
+• Changed allignment of expiry date ✔️
+• Removed font changing in expiry date ✔️
+• Fixed animation of sleep delay, alive list & performance settings ✔️
 • Added uninstall script ✔️
 ---
 October 26 - 2025
