@@ -4,6 +4,7 @@ October 28 - 2025
 Version Code : 108
 First boot will be delayed
 Maybe heat up little bit on normal use for sometime - only first time
+• Increased modes switching speed without affecting cpu overhead or battery drain ✔️
 • Improved the module logic ✔️
 • Removed hardcoded paths in WebUI ✔️
 • Removed unnecessary checks in main script ✔️
