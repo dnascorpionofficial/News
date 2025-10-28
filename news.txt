@@ -1,8 +1,15 @@
 XENTHERA VANTA X6 CHANGELOGS
 
-Final build of Xenthera Vanta x6 ✅
-21 builds of x6 - Thanks to testers ❤️
 October 28 - 2025
+Version Code : 108
+• Improved the module logic ✔️
+• Removed hardcoded paths in WebUI ✔️
+• Removed unnecessary checks in main script ✔️
+• Added random colours in intro title ✔️
+• Fixed few errors in the battery saving section ✔️
+• Changed few busybox call to advanced ✔️
+• Reduced battery draining by the loop ✔️
+|
 Version Code : 107
 First boot will be delayed
 Maybe heat up little bit on normal use for sometime - only first time
