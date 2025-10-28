@@ -2,6 +2,8 @@ XENTHERA VANTA X6 CHANGELOGS
 
 October 28 - 2025
 Version Code : 108
+First boot will be delayed
+Maybe heat up little bit on normal use for sometime - only first time
 • Improved the module logic ✔️
 • Removed hardcoded paths in WebUI ✔️
 • Removed unnecessary checks in main script ✔️
@@ -11,8 +13,6 @@ Version Code : 108
 • Reduced battery draining by the loop ✔️
 |
 Version Code : 107
-First boot will be delayed
-Maybe heat up little bit on normal use for sometime - only first time
 • Reduced the size of intro loading spinner ✔️
 • Removed some unnecessary classes from webui index ✔️
 • Modified the color scheme to reduce similar shades appearing on nearby dates in logs ✔️
