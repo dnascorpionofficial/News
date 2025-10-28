@@ -1,5 +1,9 @@
 XENTHERA VANTA X6 CHANGELOGS
 
+So this is the final update of Xenthera Vanta x6 which is well optimized on version code 108. I hope you guys liked it,Do report if you encounter any bugs / issues. Am signing off from x6 from now. x7 will probably start soon otherwise i will extend the expiry date of x6. Thanks for being patient. Explore Xenthera Vanta X6 with WebUI.
+---
+Special Thanks to Aurora,Gladiator,Killno1 & Chill Boi for testing the newer builds ❤️
+|
 October 28 - 2025
 Version Code : 108
 First boot will be delayed
