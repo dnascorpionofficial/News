@@ -1,5 +1,9 @@
 XENTHERA VANTA X6 CHANGELOGS
 
+
+"Testing here"
+'Testing New news'
+
 October 29 - 2025
 Version Code : 109
 Unexpected errors in some cases, being self deleted module even after paid subscription & valid expiry
