@@ -2,7 +2,7 @@ XENTHERA VANTA X6 CHANGELOGS
 
 
 "Testing here"
-'Testing New news'
+'Testing new news'
 
 October 29 - 2025
 Version Code : 109
