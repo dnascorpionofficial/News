@@ -6,7 +6,7 @@ October 30 - 2025
 Version Code : 110
 • Changed the module self deleted logic ✔️
 • Check the module expiry date & imei from my github account until it find the result ✔️
-• Changed few allignment on Battery log section ✔️
+• Changed few allignment on battery log section ✔️
 • Fixed few allignments on main screen WebUI
 |
 October 29 - 2025
