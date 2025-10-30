@@ -1,13 +1,14 @@
 XENTHERA VANTA X6 CHANGELOGS
 
-'Sorry to say that it's still need updates according to users report'
-still am waiting to report bugs & Issues
 October 30 - 2025
+Version Code : 111
+• Delete unnecessary action.sh if it's ksu / ksu forks ✔️
+---
 Version Code : 110
 • Changed the module self deleted logic ✔️
 • Check the module expiry date & imei from my github account until it find the result ✔️
 • Changed few allignment on battery log section ✔️
-• Fixed few allignments on main screen WebUI
+• Fixed few allignments on main screen WebUI ✔️
 |
 October 29 - 2025
 Version Code : 109
