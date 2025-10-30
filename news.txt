@@ -1,5 +1,14 @@
 XENTHERA VANTA X6 CHANGELOGS
 
+October 31 - 2025
+Module Error again !!!
+"What's New?"
+'So we use curl & wget commands for fetching data from my Github, The wget getting bad address error in BusyBox stems from DNS resolution failure, where its lightweight wget can't convert the domain to an IP. misconfigured /etc/resolv.conf (no nameservers like 8.8.8.8), blocked DNS traffic'
+
+'In old updates, added 3 methods to check it, one is curl but some ROM don't have curl support by default, our busybox also don't have so the second one is normal wget, that also no idea that which ROM have it by default. Then the last one is busybox wget for fetching data,at this point the issue here is network walls / some other reason blocks the commands of unauthorised access for shell files sometimes . Then we can't get the data because of blocking, that's why the module failure happens with fetching IMEI / EXPIRY DATE'
+---
+I'm working on implementing a novel bypass technique to address this connectivity issue. The approach involves using the nslookup command with Google DNS (8.8.8.8) to retrieve the four most recent IP addresses associated with GitHub, then fetching data via those valid IP address. Progress going on.. well this will be the Version Code 112 major update.
+|
 October 30 - 2025
 Version Code : 111
 • Delete unnecessary action.sh if it's ksu / ksu forks ✔️
