@@ -3,11 +3,16 @@ XENTHERA VANTA X6 CHANGELOGS
 
 October 31 - 2025
 Version Code : 112
+'In few ROM - First boot will be delayed & Maybe heat up little bit on normal use only for first time'
+
+• Added a brutal busybox checking with notification for not failing the busybox commands ✔️
+• Added redirection to the Brutal Busybox link if Busybox is not properly installed ✔️
+• Added notification for failure of fetching data from Github in Shell,Toast & in WebUI ✔️
 • Fixed the issue of fetching data from Github with bypassing IP ✔️
 • Changed the scheduling policy of main script to idle mode ✔️
 • Added custom url for different ROM to reduce network traffic ✔️
-• Auto reset to OFF Battery saving after enable Restart Injector / Reboot device✔️
-• Switched legacy commands to Brutal BusyBox equivalents for robust, Advanced control ✔️
+• Auto reset to OFF Battery saving after enable Restart Injector / Reboot device ✔️
+• Switched few legacy commands to Brutal BusyBox equivalents for robust, Advanced control ✔️
 
 "What was the issue?"
 'So we use curl & wget commands for fetching data from my Github, The wget getting bad address error in BusyBox stems from DNS resolution failure, where its lightweight wget can't convert the domain to an IP. misconfigured /etc/resolv.conf (no nameservers like 8.8.8.8), blocked DNS traffic'
@@ -35,8 +40,7 @@ So currently the module fetches the expiry date + IMEI from my Github account & 
 |
 October 28 - 2025
 Version Code : 108
-First boot will be delayed
-Maybe heat up little bit on normal use for sometime - only first time
+Maybe heat up little bit on normal use for sometime
 • Increased modes switching speed without affecting cpu overhead or battery drain ✔️
 • Improved the module logic ✔️
 • Removed hardcoded paths in WebUI ✔️
